@@ -7,10 +7,12 @@ I am a fourth year engineering student at UBC with prior experience in mechanica
 
 ## Projects
 [Han Yolo](https://hanyolo-shootsfirst.github.io/)
+
 With some of my classmates, I built a fully autonomous robot, named Han Yolo in honor of a Star Wars themed competition. I still remember the day I messed up a parameter by a factor of 10 and sent our robot full speed, backwards off a table; I was so thankful it survived.
 
 ## Activities
 [EUS Tutoring](https://ubcengineers.ca/tutoring)
+
 Outside of courses, you can find me running tutoring sessions for the Engineering Undergraduate Society. We cover most math and physics courses taken by first year engineering students.
 
 ## Art
