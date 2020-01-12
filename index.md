@@ -8,15 +8,21 @@ I am a fourth year engineering student at UBC with a variety of experience in me
 ## Projects
 ### Han Yolo: autonomous robot
 May-August 2018
+
 Check out my project [website](https://hanyolo-shootsfirst.github.io/).
 
 With some of my classmates, I built a fully autonomous robot, named Han Yolo in honor of our Star Wars themed competition. Han had to traverse an obstacle course and attempt to rescue stuffed Ewoks. One day I gave Han a time parameter that was off by a factor of 10 and sent our robot full speed, backwards off a table; I was so thankful it survived.
 
+![](hanyolo.jpg)
+
 ### Duet with Me: music accompaniment app
 January 2019
+
 Check out the project [here](https://devpost.com/software/duetwithme-fu9y5p).
 
 While I've never been an outstanding musician, I have played the Viola for over ten years. I came up the idea of building a voice-controlled computer accompaniment because playing solo music is never as much fun as playing a duet. I was lucky to find a hackaton team with the necessary skills to help me realize this project.
+
+![](viola.jpg)
 
 ## Volunteering
 ### Tutoring Director: Engineering Undergraduate Society
