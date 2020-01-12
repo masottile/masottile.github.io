@@ -3,7 +3,7 @@
 
 I am a fourth year engineering student at UBC with a variety of experience in mechanical design, data analysis, and software development. I strive fully apply myself to everything I do and make sure that what I produce from my work, volunteering, and hobbies is something I am proud of.
 
-<p align="center">[Resume](https://masottile.github.io/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/masottile/)</p>
+<p align="center"><a href="https://masottile.github.io/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/masottile/">LinkedIn</a></p>
 
 
 
