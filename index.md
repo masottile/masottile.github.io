@@ -1,7 +1,7 @@
 ## About
 ![me](about.jpg)
 
-I am a fourth year engineering student at UBC with a variety of experience in mechanical design, data analysis, and software development. I strive fully apply myself to everything I do and make sure that what I produce from my work, volunteering, and hobbies is something I am proud of.
+I am a fifth year engineering student at UBC with a variety of experience in software development, data analysis, and mechanical design. I strive fully apply myself to everything I do and make sure that what I produce from my work, volunteering, and hobbies is something I am proud of.
 
 <p align="center"><a href="https://masottile.github.io/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/masottile/">LinkedIn</a></p>
 
@@ -28,9 +28,9 @@ While I've never been an outstanding musician, I have played the Viola for over 
 
 ## Volunteering
 ### Tutoring Director: Engineering Undergraduate Society
-September 2018 - Present
+September 2018 - April 2020
 
-Outside of courses, you can find me running [EUS Tutoring](https://ubcengineers.ca/tutoring) sessions for most math and physics courses taken by first year engineering students. I've always had a passion for learning a teaching, and I find it quite fulfilling to run a service that helps my peers succeed in their academics.
+Outside of courses, you can find me running [EUS Tutoring](https://ubcengineers.ca/tutoring) sessions for most math and physics courses taken by first year engineering students. I've always had a passion for learning and teaching, and I find it quite fulfilling to run a service that helps my peers succeed in their academics.
 
 ## Art
 When I get extra bored, I like to paint things or get a little creative with my baking. I surprised some of my high school classmates by going into engineering instead of dropping out to sell art full time.
